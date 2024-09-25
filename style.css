@@ -46,4 +46,16 @@ html {
 
 #menu {
   display: flex;
+  border: 1px solid black;
+  height: 8rem;
+}
+
+.menu-img {
+  margin: 1em;
+}
+
+.menu-link {
+  font-size: 1.2em;
+  color: black;
+  text-decoration: none;
 }
